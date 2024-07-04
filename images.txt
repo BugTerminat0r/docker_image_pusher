@@ -1,3 +1,4 @@
 nginx
 xuxueli/xxl-job-admin:2.4.0
 snowdreamtech/frpc
+homeassistant/amd64-addon-mosquitto
